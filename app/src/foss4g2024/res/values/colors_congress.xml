@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="pressed_congress">#CC0099AB</color>
+
+    <!-- Default state -->
+    <color name="track_background_default">#996E23</color>
+    <color name="track_background_default_ai4eo_challenges_and_opportunities">#240E8F</color>
+    <color name="track_background_default_applications_for_amazon">#CC4B18</color>
+    <color name="track_background_default_community_foundation">#585656</color>
+    <color name="track_background_default_education">#912a65</color>
+    <color name="track_background_default_open_data">#6F4373</color>
+    <color name="track_background_default_foss4g_made_in_latam">#106aa5</color>
+    <color name="track_background_default_open_standard">#9ea105</color>
+    <color name="track_background_default_state_of_software">#103e0a</color>
+    <color name="track_background_default_transition_to_foss4g">#1a344c</color>
+    <color name="track_background_default_use_cases_applications">#B32445</color>
+
+    <!-- Highlight state -->
+    <color name="track_background_highlight">#e6a535</color>
+    <color name="track_background_highlight_ai4eo_challenges_and_opportunities">#2100c2</color>
+    <color name="track_background_highlight_applications_for_amazon">#f06a36</color>
+    <color name="track_background_highlight_community_foundation">#726f6f</color>
+    <color name="track_background_highlight_education">#c90d95</color>
+    <color name="track_background_highlight_open_data">#b93580</color>
+    <color name="track_background_highlight_foss4g_made_in_latam">#1588d3</color>
+    <color name="track_background_highlight_open_standard">#ced306</color>
+    <color name="track_background_highlight_state_of_software">#1b6a11</color>
+    <color name="track_background_highlight_transition_to_foss4g">#274e72</color>
+    <color name="track_background_highlight_use_cases_applications">#f61449</color>
+
+</resources>

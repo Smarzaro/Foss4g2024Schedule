@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map linked="true">
+
+    <entry key="">other</entry>
+    <entry key="AI4EO Challenges &amp; Opportunities">ai4eo_challenges_and_opportunities</entry>
+    <entry key="Applications and Solutions for the Amazon Region">applications_for_amazon</entry>
+    <entry key="Community &amp; Foundation">community_foundation</entry>
+    <entry key="Education">education</entry>
+    <entry key="Open Data">open_data</entry>
+    <entry key="Open Source Geospatial ‘Made in Latin America’">foss4g_made_in_latam</entry>
+    <entry key="Open standard">open_standard</entry>
+    <entry key="State of software">state_of_software</entry>
+    <entry key="Transition to FOSS4G">transition_to_foss4g</entry>
+    <entry key="Use cases &amp; applications">use_cases_applications</entry>
+
+</map>
