@@ -35,7 +35,7 @@
     <!-- Session details -->
     <color name="session_detailbar_background">#eee</color>
     <color name="session_detailbar_text">#444</color>
-    <color name="session_details_list_item">@color/colorPrimaryDark</color>
+    <color name="session_detail_list_item">@color/colorPrimaryDark</color>
 
     <!-- Tool bar -->
     <color name="day_menu_text">#fff</color>
