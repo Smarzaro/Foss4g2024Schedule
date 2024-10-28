@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">FOSS4G 2024 Schedule</string>
-    <string name="app_hardcoded_subtitle">December 2 – 8 2024, Belém - Pará - Brazil</string>
+    <string name="app_hardcoded_subtitle" translatable="false">December 2 – 8 2024, Belém - Pará - Brazil</string>
     <string name="conference_name" translatable="false">FOSS4G 2024</string>
-    <string name="copyright_logo">
-        FOSS4G 2024 logo by , CC-BY-ND 4.0.
+    <string name="copyright_logo" translatable="false">
+        FOSS4G 2024 logo by CC-BY-ND 4.0.
     </string>
     <string name="about_logo_content_description" translatable="false">
         FOSS4G 2024 logo

@@ -74,6 +74,7 @@ android {
     }
 
     signingConfigs {
+        foss4g2024
         ccc37c3
         cccamp2023
         jev2022
@@ -85,20 +86,20 @@ android {
     productFlavors {
      foss4g2024 {
             dimension defaultDimension
-            applicationId "org.foss4g.android.schedule"
+            applicationId "app.smarzaro.foss4g2024.schedule"
             versionName "${defaultConfig.versionName}-FOSS4G2024-Edition"
-            buildConfigField "String", "GOOGLE_PLAY_URL", '""'
-            buildConfigField "String", "F_DROID_URL", '"https://f-droid.org/packages/org.foss4g.android.schedule"'
-            buildConfigField "String", "SCHEDULE_URL", '"https://talks.osgeo.org/foss4g-2024/schedule/export/schedule.xml"'
+            buildConfigField "String", "GOOGLE_PLAY_URL", '"https://play.google.com/store/apps/details?id=app.smarzaro.foss4g2024.schedule"'
+            buildConfigField "String", "F_DROID_URL", '"https://f-droid.org/packages/app.smarzaro.foss4g2024.schedule"'
+            buildConfigField "String", "SCHEDULE_URL", '"https://github.com/FOSS4G-2024-Belem/foss4g-2024-belem.github.io/raw/refs/heads/master/public/schedule_foss4g2024.xml"'
             buildConfigField "String", "EVENT_URL", '""'
             buildConfigField "String", "EVENT_WEBSITE_URL", '"https://2024.foss4g.org"'
             buildConfigField "String", "EVENT_POSTAL_ADDRESS", '"Av. Dr. Freitas, s/n - Marco, Belém - PA, 66613-902"'
             buildConfigField "String", "SERVER_BACKEND_TYPE", '"pretalx"'
             buildConfigField "String", "SOCIAL_MEDIA_HASHTAGS_HANDLES", '"#FOSS4G #FOSS4G2024"'
-            buildConfigField "String", "TRACE_DROID_EMAIL_ADDRESS", '"smarzaro@gmail.com"'
+            buildConfigField "String", "TRACE_DROID_EMAIL_ADDRESS", '"smarzaro+foss4g2024@gmail.com"'
             buildConfigField "String", "SCHEDULE_FEEDBACK_URL", '"https://talks.osgeo.org/foss4g-2024/schedule/%s/feedback/"'
             buildConfigField "boolean", "SHOW_APP_DISCLAIMER", "true"
-        }
+     }
         ccc37c3 {
             dimension defaultDimension
             applicationId "info.metadude.android.congress.schedule"

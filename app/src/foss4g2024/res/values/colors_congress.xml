@@ -4,7 +4,7 @@
     <color name="pressed_congress">#CC0099AB</color>
 
     <!-- Default state -->
-    <color name="track_background_default">#996E23</color>
+    <color name="track_background_default">#D86E39</color>
     <color name="track_background_default_ai4eo_challenges_and_opportunities">#240E8F</color>
     <color name="track_background_default_applications_for_amazon">#CC4B18</color>
     <color name="track_background_default_community_foundation">#585656</color>
@@ -17,7 +17,7 @@
     <color name="track_background_default_use_cases_applications">#B32445</color>
 
     <!-- Highlight state -->
-    <color name="track_background_highlight">#e6a535</color>
+    <color name="track_background_highlight">#f9b233</color>
     <color name="track_background_highlight_ai4eo_challenges_and_opportunities">#2100c2</color>
     <color name="track_background_highlight_applications_for_amazon">#f06a36</color>
     <color name="track_background_highlight_community_foundation">#726f6f</color>
