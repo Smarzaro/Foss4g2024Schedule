@@ -1,0 +1,27 @@
+ Conference program app for the FOSS4G 2024 conference in Belém, Brazil
+
+  https://2024.foss4g.org
+
+  <b>About FOSS4G</b>
+  FOSS4G is the acronym for Free and Open Source Software for Geospatial. It is the annual recurring global event hosted by OSGeo, the non-profit organization that supports and promotes the collaborative development of free and open source geographic technologies and open geospatial data.
+
+  The conference covers all kinds of topics related to geospatial information and earth observation openness from Software development to Transition to FOSS4G, Use cases and applications, Education and research and Open data.
+
+  This event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geomatics software, people who make decisions, researchers, students and anyone who wants to learn, share and meet like GIS interested people.
+
+  It attracts over 1,000 practitioners and advocates for free and open source software for geospatial and the tendency is to increase this number every year. It is the main meeting place and educational outreach opportunity for OSGeo members, supporters and newcomers - to share and learn from one another in presentations, hands-on workshops and a conference exhibition.
+
+  For appreciating the quality and variety of the presentations, you can watch video recordings of past FOSS4G events on the FOSS4G YouTube channel (https://www.youtube.com/c/FOSS4G/)
+
+  <b>Features</b>
+  * View program by day and rooms (side by side)
+  * Custom grid layout for smartphones (try landscape mode 🙃) and tablets
+  * Read detailed descriptions (speaker names, start time, room name, links, ...) of events
+  * Add events to favorites list
+  * Export favorites list
+  * Setup alarms for individual events
+  * Add events to your personal calendar
+  * Share a website link to an event with others
+  * Keep track of program changes
+  * Automatic program updates (configurable in settings)
+  * Vote and leave comments on talks and workshops
